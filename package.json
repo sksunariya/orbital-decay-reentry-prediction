@@ -1,0 +1,15 @@
+{
+  "name": "orbital-decay-algorithm",
+  "version": "1.0.0",
+  "main": "orbitalDecay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "satellite.js": "^5.0.0"
+  }
+}
